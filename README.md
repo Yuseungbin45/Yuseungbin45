@@ -1,9 +1,19 @@
 ## Hi there 👋
-
+Instruction 
+Name Peter Yoo
+Age 26
+Language C, Java, C++
+Address Daegu
 <!--
 **Yuseungbin45/Yuseungbin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+instruction
+Name Peter Yoo
+Age 26
+Language C, Java, C++
+Address Daegu
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
