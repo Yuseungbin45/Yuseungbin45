@@ -29,12 +29,13 @@
 ### 📊 Github Stats
 <div align="center">
   <a href="https://github.com/Yuseungbin45">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yuseungbin45&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yuseungbin45&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
   </a>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuseungbin45&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuseungbin45&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</div>
 <br />
 
 ### 📫 Contact Me
