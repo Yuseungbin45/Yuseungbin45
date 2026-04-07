@@ -24,8 +24,8 @@
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=사용자ID&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuseungbin45&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuseungbin45&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br />
